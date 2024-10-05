@@ -1,1 +1,1 @@
-# shopifyy
+# Shopify
